@@ -1,2 +1,1 @@
-# earthquakes
-indonesia earthquake map
+
